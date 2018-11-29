@@ -91,3 +91,6 @@ pyvenv.cfg
 pyvenv.cfg
 /conf/local.yml
 /conf/dev_overrides.yml
+.ipynb_checkpoints
+etc/
+

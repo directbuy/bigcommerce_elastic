@@ -1,3 +1,5 @@
 elasticsearch
 elasticsearch_dsl
 ipython
+jupyter
+certifi
