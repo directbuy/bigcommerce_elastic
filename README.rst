@@ -1,14 +1,14 @@
 Setup
 =====
 
-```powershell
-PS1> cd \u
-PS1> git clone https://github.com/directbuy/bigcommerce_elastic
-PS1> cd \u\bigcommerce_elastic
-PS1> python3.7 -m venv .
-PS1> source bin/activate
-PS1> pip install -r requirements.txt
-```
+.. code:: powershell
+
+    PS1> cd \u
+    PS1> git clone https://github.com/directbuy/bigcommerce_elastic
+    PS1> cd \u\bigcommerce_elastic
+    PS1> python3.7 -m venv .
+    PS1> source bin/activate
+    PS1> pip install -r requirements.txt
 
 
 Running
